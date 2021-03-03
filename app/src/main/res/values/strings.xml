@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rick and Morty app</string>
+    <string name="character_detail_activity">CharacterDetails</string>
+
+    <string name="name">Name :</string>
+    <string name="species">Species :</string>
+    <string name="status">Status :</string>
+    <string name="gender">Gender :</string>
+</resources>
